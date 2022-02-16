@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-448j-darwin-and-design-fall-2003/a11b8de2657d80f47af56f6deea23c45_paperassgn1.pdf
+file: /media/courses/21l-448j-darwin-and-design-fall-2003/a11b8de2657d80f47af56f6deea23c45_paperassgn1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: paperassgn1.pdf
 uid: a11b8de2-657d-80f4-7af5-6f6deea23c45
