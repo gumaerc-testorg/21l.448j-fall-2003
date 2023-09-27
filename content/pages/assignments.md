@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the paper assignments and reading assignments for
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,11 +12,11 @@ uid: f4410981-ec67-d276-9557-5ea34cc46de4
 Paper Assignments
 -----------------
 
-Paper Assignment 1 ([PDF]({{< baseurl >}}/resources/paperassgn1))  
-Paper Assignment 2 ([PDF]({{< baseurl >}}/resources/paperassgn2))  
-Paper Assignment 3 ([PDF]({{< baseurl >}}/resources/paperassgn3))
+Paper Assignment 1 ({{% resource_link a11b8de2-657d-80f4-7af5-6f6deea23c45 "PDF" %}})  
+Paper Assignment 2 ({{% resource_link 696079d3-b1e1-a119-b1f2-4a2c92036675 "PDF" %}})  
+Paper Assignment 3 ({{% resource_link d65d275a-5ff2-822d-a416-c9fcb728e090 "PDF" %}})
 
-**Reading Assignments \[Download all assignments ([PDF]({{< baseurl >}}/resources/readingassign))\]**
+**Reading Assignments \[Download all assignments ({{% resource_link 38791fe3-0d08-9f2a-fe6d-39be0508a0c8 "PDF" %}})\]**
 
 _Lecture 1: Introduction: Selections from Genesis._
 
