@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21l-448j-darwin-and-design-fall-2003/696079d3b1e1a119b1f24a2c92036675_paperassgn2.pdf
+file_size: 91940
 file_type: application/pdf
 learning_resource_types:
 - Assignments
