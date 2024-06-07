@@ -3,6 +3,7 @@ content_type: resource
 description: Aristotle's Physics (Written 350 B.C.E) Book II.  Translated by R.P.
   Hardie and R.K. Gaye (Adapted by A.C. Kibel)
 file: /courses/21l-448j-darwin-and-design-fall-2003/239296a3b444d0b608e143cedaa18773_lecture2.pdf
+file_size: 107337
 file_type: application/pdf
 learning_resource_types:
 - Readings
