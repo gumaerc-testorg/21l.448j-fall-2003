@@ -4,7 +4,7 @@ description: Voltaire, Candide; or Optimism.  translated from the German of Doct
   with the additions which were found in the Doctor's pocket when he died at Minden
   in the Year of Our Lord 1759. [An anonymous translation, edited and adapted by A.C.
   Kibel]
-file: /courses/21l-448j-darwin-and-design-fall-2003/324ae41a361db80d885df5687ca2df7e_lecture4.pdf
+file: /ol-ocw-studio-app/courses/21l-448j-darwin-and-design-fall-2003/324ae41a361db80d885df5687ca2df7e_lecture4.pdf
 file_size: 349649
 file_type: application/pdf
 learning_resource_types:
