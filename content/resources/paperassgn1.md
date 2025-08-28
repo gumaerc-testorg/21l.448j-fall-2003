@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-448j-darwin-and-design-fall-2003/a11b8de2657d80f47af56f6deea23c45_paperassgn1.pdf
+file: /ol-ocw-studio-app/courses/21l-448j-darwin-and-design-fall-2003/a11b8de2657d80f47af56f6deea23c45_paperassgn1.pdf
 file_size: 39998
 file_type: application/pdf
 learning_resource_types:
