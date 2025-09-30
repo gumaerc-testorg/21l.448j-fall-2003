@@ -10,7 +10,7 @@ ocw_type: CourseSection
 title: Readings
 uid: dcedf59c-cbba-76cb-bce5-7ea86a0d56f6
 ---
-Many of the readings may be downloaded from the [Project Gutenberg site](http://www.gutenberg.org/). Those available for download have a direct link to the text listed next to the bibliographic entry.
+Many of the readings may be downloaded from the {{% resource_link "56e3c430-e08c-4619-bbab-f84f530f8bef" "Project Gutenberg site" %}}. Those available for download have a direct link to the text listed next to the bibliographic entry.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -19,7 +19,7 @@ TOPICS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-Introduction: Selections from *Genesis.* ([Download from Project Gutenberg](http://www.gutenberg.org/ebooks/18105))
+Introduction: Selections from *Genesis.* ({{% resource_link "ebb26210-b707-4f72-8b97-4f415bb280f4" "Download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -31,7 +31,7 @@ Carroll, Lewis. *Alice's Adventures in Wonderland.* ({{% resource_link "95b08475
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Voltaire. *Candide*. ([Download from Project Gutenberg](http://www.gutenberg.org/ebooks/4650))   
+Voltaire. *Candide*. ({{% resource_link "daf11f97-8e7d-4c01-b4e3-5eee194d3b95" "Download from Project Gutenberg" %}})   
 Translated from the *German of Doctor Ralph* with the additions which were found in the Doctor's pocket when he died at Minden in the Year of our Lord 1759. (An anonymous translation, edited and adapted by A. C. Kibel.) ({{% resource_link "324ae41a-361d-b80d-885d-f5687ca2df7e" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -61,7 +61,7 @@ Malthus, Thomas. *Principles of Population.* Pp. 1-3, 9, 13, 14 and 18-19. (Exce
 11
 {{< tdclose >}}{{< tdopen >}}
 
-Darwin, Charles. *On the Origin of Species.* (Excerpts from Signet Edition.) ([Download from Project Gutenberg](http://www.gutenberg.org/browse/BIBREC/BR2009.HTM))
+Darwin, Charles. *On the Origin of Species.* (Excerpts from Signet Edition.) ({{% resource_link "b4962fb4-c955-4f4d-8a3d-b42ff34f8bfd" "Download from Project Gutenberg" %}})
 
 - Darwin's Introduction (not the editor's), pp. 27-30.
 - Chapter 1, p. 46 ("I have discussed the probable origin . . .") to p. 55, "slow, varying and insensible changes".
@@ -103,12 +103,12 @@ Butler, Samuel. *Erewhon.* (continued)
 
 Butler, Samuel. *Erewhon.* (continued)
 
-Darwin, Charles. Excerpt from *The Descent of Man.* 1871. ([Download from Project Gutenberg](http://www.gutenberg.org/browse/BIBREC/BR2300.HTM))
+Darwin, Charles. Excerpt from *The Descent of Man.* 1871. ({{% resource_link "4986d7ef-f525-4897-a20a-2eebd74f4c06" "Download from Project Gutenberg" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
-Stevenson, Robert Louis. *Dr Jekyll and Mr Hyde.* ([Download from Project Gutenberg](http://www.gutenberg.org/browse/BIBREC/BR42.HTM))
+Stevenson, Robert Louis. *Dr Jekyll and Mr Hyde.* ({{% resource_link "72ca08cf-bec1-4742-b6a1-067b77e4c664" "Download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -120,11 +120,11 @@ Huxley, Thomas Henry. *Prolegomena to Evolution and Ethics.* 1894. (Annotated by
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-Wells, H. G. *The Time Machine*. ([Download from Project Gutenberg](http://www.gutenberg.org/browse/BIBREC/BR35.HTM))
+Wells, H. G. *The Time Machine*. ({{% resource_link "ad8a4b1a-0c7c-40db-a5de-c0945fbdd988" "Download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-Wells, H. G. *The Island of Dr Moreau.* ([Download from Project Gutenberg](http://www.gutenberg.org/files/159/159-h/159-h.htm))
+Wells, H. G. *The Island of Dr Moreau.* ({{% resource_link "f167ec39-86b0-43bd-8ddd-a433de482cea" "Download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
